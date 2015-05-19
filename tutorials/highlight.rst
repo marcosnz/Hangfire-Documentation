@@ -356,8 +356,8 @@ You should also include the following setting to the ``web.config`` file, if the
     </system.webServer>
   </configuration>
 
-Hiliting the code
-^^^^^^^^^^^^^^^^^^
+Highlighting the code
+^^^^^^^^^^^^^^^^^^^^^
 
 It is the core functionality of our application. We'll use the http://hilite.me service that provides HTTP API to perform highlighting work. To start to consume its API, install the ``Microsoft.Net.Http`` package:
 
